@@ -3,8 +3,6 @@ title: About
 description: This is meta description
 
 ---
-About Us
-
 The _Cornell Progressive_ is Cornell University’s premier progressive news and opinion publication and blog.
 
 Established in 2000 as _Turn Left_, the name was changed in 2007 to the current _Cornell Progressive_. During the 2000 presidential campaign between Al Gore and George W. Bush, a trio of engineers sat in Noyes (hardly the modern recreation center of today) discussing politics when the idea came up to create a publication. At the time, the _Cornell Review_ was a powerful, monolithic political voice on campus. “We wanted to counterbalance that,” according to founder Tsee Yuan Lee ’02.
