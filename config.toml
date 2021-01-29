@@ -10,10 +10,6 @@ theme = "github.com/themefisher/twenty-twenty-hugo"
 title = "The Cornell Progressive"
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.desktop]]
-URL = "contact"
-name = "Contact"
-weight = 1
 [[menu.main]]
 URL = "contact"
 name = "Contact"
