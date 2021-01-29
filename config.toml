@@ -39,6 +39,11 @@ home = ["HTML", "RSS", "JSON"]
 [params]
 author = "The Cornell Progressive"
 description = "This is meta description"
+
+description = "The Cornell Progressive is Cornell University’s premier progressive news and opinion publication and blog."
+images = ["/images/add-a-heading.png"]
+title = "The Cornell Progressive"
+  
 [params.banner]
 heading = "The Cornell Progressive"
 image = "/images/add-a-heading.png"
@@ -74,10 +79,4 @@ author = "author"
 category = "categories"
 tag = "tags"
 
-[params]
-  description = "The Cornell Progressive is Cornell University’s premier progressive news and opinion publication and blog."
-  images = ["/images/add-a-heading.png"]
-  title = "The Cornell Progressive"
-
-[taxonomies]
-  series = "series"
+series = "series"
