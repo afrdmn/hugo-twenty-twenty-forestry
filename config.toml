@@ -12,7 +12,7 @@ title = "The Cornell Progressive"
 unsafe = true
 [[menu.desktop]]
 name = "About"
-url = "https://www.thecornellprogressive.com/about"
+url = "https://www.thecornellprogressive.com/about/"
 weight = 2
 [[menu.desktop]]
 URL = "contact"
