@@ -13,7 +13,7 @@ unsafe = true
 [[menu.desktop]]
 URL = "contact"
 name = "Contact"
-url = "https://thecornellprogressive.com/contact"
+url = "https://www.thecornellprogressive.com/contact"
 weight = 1
 [[menu.main]]
 URL = "contact"
