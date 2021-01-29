@@ -22,12 +22,12 @@ weight = 1
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-url = "https://thecornellprogressive.com/contact"
+url = "https://www.thecornellprogressive.com/contact"
 weight = 3
 [[menu.main]]
 URL = "about"
 name = "About"
-url = "https://thecornellprogressive.com/about"
+url = "https://www.thecornellprogressive.com/about"
 weight = 2
 [[menu.main]]
 URL = "/"
