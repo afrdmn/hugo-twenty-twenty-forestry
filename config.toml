@@ -11,29 +11,29 @@ title = "The Cornell Progressive"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
+name = "About"
+url = "https://www.thecornellprogressive.com/about/"
+weight = 2
+[[menu.desktop]]
 URL = "contact"
 name = "Contact"
+url = "https://www.thecornellprogressive.com/contact"
 weight = 1
 [[menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
+URL = "contact"
+name = "Contact"
+url = "https://thecornellprogressive.com/contact"
+weight = 3
 [[menu.main]]
 URL = "about"
 name = "About"
+url = "https://thecornellprogressive.com/about"
 weight = 2
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
-[[menu.main]]
-URL = "sample-page"
-name = "Sample Page"
-weight = 5
+URL = "/"
+name = "Home"
+url = "https://www.thecornellprogressive.com/"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
