@@ -1,9 +1,6 @@
 ---
-title: About
+title: About Us
 description: This is meta description
-menu:
-  desktop:
-    weight: 2
 
 ---
 The _Cornell Progressive_ is Cornell University’s premier progressive news and opinion publication and blog.
@@ -14,6 +11,6 @@ Along with his brother Tsee Yung Lee ’02, both computer science engineers, the
 
 The first issue on the eve of the 2000 election was a bound magazine. All subsequent editions have been in newspaper format.
 
-**In 2016 the publication went completely dark. A strange time for a progressive paper to go "lights out" amid a progressive resurgence in American politics. Not to mention the emergence of a real threat to the very nature of American democracy and the existence of a multi-racial democracy. The demise of _The Cornell Progressive_ speaks to the disarray that can sometimes plague politics on the left. But we can change that.**
+**In 2016 the publication went completely dark. A strange time for a progressive paper to go “lights out” amid a progressive resurgence in American politics. Not to mention the emergence of a real threat to the very nature of American democracy and the existence of a multi-racial democracy. The demise of _The Cornell Progressive_ speaks to the disarray that can sometimes plague politics on the left. But we can change that.**
 
 In 2021, _The Cornell Progressive_ is up and running again. We have a lot of work to do — to pressure lawmakers to stand up to the dominance of the corporate elites in American life and to channel the energy of young people into sustainable movements and policy achievements.
