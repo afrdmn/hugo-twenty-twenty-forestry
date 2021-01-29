@@ -37,7 +37,7 @@ weight = 5
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-author = "Themefisher"
+author = "The Cornell Progressive"
 description = "This is meta description"
 [params.banner]
 heading = "The Cornell Progressive"
