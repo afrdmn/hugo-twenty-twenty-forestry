@@ -11,38 +11,36 @@ title = "The Cornell Progressive"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
-name = "About"
-url = "https://www.thecornellprogressive.com/about/"
-weight = 2
-[[menu.desktop]]
 URL = "contact"
 name = "Contact"
 url = "https://www.thecornellprogressive.com/contact"
 weight = 1
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-url = "https://www.thecornellprogressive.com/contact"
-weight = 3
-[[menu.main]]
-URL = "about"
+[[menu.desktop]]
 name = "About"
-url = "https://www.thecornellprogressive.com/about"
+url = "https://www.thecornellprogressive.com/about/"
 weight = 2
 [[menu.main]]
 URL = "/"
 name = "Home"
 url = "https://www.thecornellprogressive.com/"
 weight = 1
+[[menu.main]]
+URL = "about"
+name = "About"
+url = "https://www.thecornellprogressive.com/about"
+weight = 2
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+url = "https://www.thecornellprogressive.com/contact"
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
 author = "The Cornell Progressive"
 description = "The Cornell Progressive is Cornell University’s premier progressive news and opinion publication and blog."
-
 images = ["/images/add-a-heading.png"]
 title = "The Cornell Progressive"
-  
 [params.banner]
 heading = "The Cornell Progressive"
 image = "/images/add-a-heading.png"
@@ -76,6 +74,5 @@ yelp = ""
 [taxonomies]
 author = "author"
 category = "categories"
-tag = "tags"
-
 series = "series"
+tag = "tags"
