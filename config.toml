@@ -57,7 +57,7 @@ copyright = "The Cornell Progressive Copyright &copy; 2021"
 hours = ""
 title = "The Cornell Progressive"
 [params.gallery]
-enable = true
+enable = false
 [[params.gallery.gallery_item]]
 image = "images/2020-square-2.png"
 [[params.gallery.gallery_item]]
