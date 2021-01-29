@@ -73,3 +73,11 @@ yelp = ""
 author = "author"
 category = "categories"
 tag = "tags"
+
+[params]
+  description = "The Cornell Progressive is Cornell University’s premier progressive news and opinion publication and blog."
+  images = ["/images/add-a-heading.png"]
+  title = "The Cornell Progressive"
+
+[taxonomies]
+  series = "series"
