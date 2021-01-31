@@ -1,7 +1,7 @@
 +++
 author = ["Aaron Friedman"]
 categories = []
-date = 2021-02-01T02:00:00Z
+date = 2021-02-01T00:00:00Z
 description = "I have hope that the failed 2008 promise of “Hope & Change” will finally become a reality. Maybe not in 2020, but a ground-swell is coming."
 draft = true
 image = "/images/3_4-cornell-progressive.png"
