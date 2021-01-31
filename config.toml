@@ -45,7 +45,7 @@ title = "The Cornell Progressive"
 heading = "The Cornell Progressive"
 image = "/images/add-a-heading.png"
 [params.blog]
-heading = "The premier destination for Progressive insights since 2004."
+heading = "The premier destination for Progressive insights since 2000."
 [params.call_to_action]
 button_label = "Contact Us"
 button_url = "contact"
