@@ -37,6 +37,8 @@ Is it a win for a self-described Democratic Socialist to be chairing one of the 
 
 The road to progress is endlessly difficult, but without celebrating our wins, going to bed buzzing on August 5, 2020, with the news of Cori Bush’s stunning victory, people will check out of politics. Ignore the doom-sayers and take the wins as they come. Taking a win is not about falling back asleep and leaving the arena. Taking a win is about growing the movement. A progressive movement that only exists as a fringe cultural movement for people to whine on Twitter about “sellout AOC” and “Biden puppet Bernie Sanders” is doomed to fail and is deeply unserious.
 
+![Cori Bush Defeats 10-Term Incumbent](/images/cori-bush-cnn.png "Cori Bush on CNN")
+
 Clearly neither one of the new Georgia Senators is to the left of AOC, but Senators Ossoff and Warnock do represent a radical departure from the failed, “Very Serious and Smart” Democratic Party intelligentsia of yesterday. The new senators from Georgia represent a new strain of liberalism that borrows heavily from economic populism.
 
 The key takeaway from the victories of Ossoff and Warnock is not only their firm support of increased government stimulus but also their inspiring, optimistic campaigning style. Failed Trump stooges Purdue and Loeffler, relegated to the discount bin of history textbooks, campaigned on fear and cardboard, culture-war appeals to “The People.” By “The People” they of course meant the citizens of Georgia—minus Fulton County (which was apparently ripe with voter fraud). I wonder why they chose Fulton County, out of all counties in Georgia? One glance at the demographic data would tell you why. They don’t even care about hiding their racism.
