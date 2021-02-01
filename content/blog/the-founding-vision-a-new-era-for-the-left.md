@@ -45,4 +45,6 @@ Clearly neither one of the new Georgia Senators is to the left of AOC, but Senat
 
 The key takeaway from the victories of Ossoff and Warnock is not only their firm support of increased government stimulus but also their inspiring, optimistic campaigning style. Failed Trump stooges Purdue and Loeffler, relegated to the discount bin of history textbooks, campaigned on fear and cardboard, culture-war appeals to “The People.” By “The People” they of course meant the citizens of Georgia—minus Fulton County (which was apparently ripe with voter fraud). I wonder why they chose Fulton County, out of all counties in Georgia? One glance at the demographic data would tell you why. They don’t even care about hiding their racism.
 
+![](/images/nina-turner.png "Nina Turner Hypes Up a Crowd")
+
 To win in politics, we have to sell people on hope. No, that does not mean falling in line and embracing the doomed “Hope & Change” of the Democratic consultant class that paved the way for Donald Trump. But because of the rise of progressive mobilization on the internet, the new vision articulated and widely distributed by progressive politicians, and our generation’s clear and daily experience with failed institutions, I have _hope_ that the failed 2008 promise of “Hope & Change” will finally become a reality. Maybe not in 2020, but a ground-swell is coming.
