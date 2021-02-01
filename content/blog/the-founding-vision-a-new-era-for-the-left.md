@@ -21,6 +21,8 @@ In 2021, incoming students _are_ thinking about the idea of leftism vs. liberali
 
 The fundamental shift between the “Hope & Change Era” of 2008-2012 and the “Hope & Change, But Maybe Real This Time? Era” of 2020 is due in large part to the internet. Obviously the internet is not a magic bullet of sorts, especially because the internet and its social media platforms gave us Trump in large part. But without the internet there would have been no Bernie 2016, no Bernie 2020, and no vocal Budget Committee Chairman Bernie Sanders with a huge megaphone.
 
+![Bernie Sanders on CNN](/images/sanders-stimulus.png "Bernie Sanders on CNN")
+
 In 2000, when _Turn Left_ was established, back-bencher Bernie Sanders had no hope of a national audience of millions of people. Without getting too technical, the tools of the internet that allow instant communication just did not exist in 2000 and even 2008.
 
 While communication strategy and policy has certainly evolved since the 2000s, the material conditions have certainly changed since then as well. It goes without saying that the failure of our government is on clear display today. Just open your eyes. You’ll be greeted by your math teacher cold-calling you over Zoom. Once a cataclysmic event like COVID happens and status quo politicians fail and fail and fail, there is no going back. There is no pre-COVID-19 era. COVID-19 is here to stay, and even in the wake of mass vaccination, our generation will never go back to politics as usual.
