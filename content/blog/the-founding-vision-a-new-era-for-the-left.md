@@ -2,7 +2,6 @@
 author = ["Aaron Friedman"]
 categories = ["Opinion"]
 date = 2021-02-02T01:31:00Z
-publish_date = "2021-01-31T08:43:00.000+00:00"
 description = "I have hope that the failed 2008 promise of “Hope & Change” will finally become a reality. Maybe not in 2020, but a ground-swell is coming."
 image = "/images/3_4-cornell-progressive.png"
 tags = ["Alexandria Ocasio-Cortez", "Bernie Sanders"]
