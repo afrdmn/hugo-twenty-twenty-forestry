@@ -10,6 +10,8 @@ title = "The Founding Vision: A New Era For The Left"
 +++
 To put it bluntly, when the predecessor of this publication, _Turn Left,_ was founded in 2000, progressive discourse nationally was nothing more than a joke. Campus journalists and activists are real people who are products of the society around them. No one was willing to take a firm stand without fear of getting ridiculed. Regardless, there was no politician or movement to support. Bernie Sanders was around, but known to no one. What power did this back-bench House member have anyway? What could he do to change the national dialogue? Put out a press release in the _Burlington Free Press_?
 
+![](/images/sanders-2000.jpg)
+
 For a Serious Person to be willing to challenge the status quo, there had to be a “real” path forward. But in 2000, coming off of the presidency of Bill Clinton (the king of centrism), “the only way to win” was to be a Serious Politician. To be taken seriously you could not challenge the American status quo. Even if you did dare to challenge the Washington intelligentsia, the unbendable, mythical rules of American politics would _certainly_ kill a serious left wing movement. So journalists, politicians, and campus voices fell in line.
 
 In 2008, President Obama commanded almost no dissent from the center-left or “left.” It seemed like the only hope for the few prominent voices on the left was to fall in line with President Obama. That even President Obama, who promised a complete realignment of American politics, refused to take a firm stand supporting gay marriage in 2008, showed the complete non-existence of the progressive movement at the time. If Obama questioned gay marriage today, you would have an organized movement to challenge him and the entire Senate Democratic conference would swiftly rebuke him, showing a huge leftward shift in the Overton window. Contrarians would argue that the left-ward shift on social issues is obvious but the majority of Democrats still have fealty to big donors and corporations. But the Overton window has shifted on economics too.
@@ -19,6 +21,8 @@ As Princeton professor and self-proclaimed Bernie propagandist Matthew Karp told
 In 2021, incoming students _are_ thinking about the idea of leftism vs. liberalism, even if indirectly. And not just those on the fringes of campus, but people in all social circles and walks of life. When Alexandria Ocasio-Cortez gets additional engagement on her social media, a casual observer may not make a highly specific, wonky distinction between her brand of politics and that of Chris Coons. But AOC’s charisma and massive social media following have built tremendous social trust with members of our generation. And slowly but surely, a firmly progressive brand of politics is beginning to enter the mainstream of American politics.
 
 The fundamental shift between the “Hope & Change Era” of 2008-2012 and the “Hope & Change, But Maybe Real This Time? Era” of 2020 is due in large part to the internet. Obviously the internet is not a magic bullet of sorts, especially because the internet and its social media platforms gave us Trump in large part. But without the internet there would have been no Bernie 2016, no Bernie 2020, and no vocal Budget Committee Chairman Bernie Sanders with a huge megaphone.
+
+![](/images/sanders-stimulus.png)
 
 In 2000, when _Turn Left_ was established, back-bencher Bernie Sanders had no hope of a national audience of millions of people. Without getting too technical, the tools of the internet that allow instant communication just did not exist in 2000 and even 2008.
 
@@ -32,10 +36,14 @@ Schumer is clearly not some sort of progressive icon. But if we fail to understa
 
 Is it a win for a self-described Democratic Socialist to be chairing one of the most influential committees in Congress? Is it a win to have AOC, a young, inspiring figure with decades of boundless potential in Congress?
 
+![](/images/cori-bush-cnn.png)
+
 The road to progress is endlessly difficult, but without celebrating our wins, going to bed buzzing on August 5, 2020, with the news of Cori Bush’s stunning victory, people will check out of politics. Ignore the doom-sayers and take the wins as they come. Taking a win is not about falling back asleep and leaving the arena. Taking a win is about growing the movement. A progressive movement that only exists as a fringe cultural movement for people to whine on Twitter about “sellout AOC” and “Biden puppet Bernie Sanders” is doomed to fail and is deeply unserious.
 
 Clearly neither one of the new Georgia Senators is to the left of AOC, but Senators Ossoff and Warnock do represent a radical departure from the failed, “Very Serious and Smart” Democratic Party intelligentsia of yesterday. The new senators from Georgia represent a new strain of liberalism that borrows heavily from economic populism.
 
 The key takeaway from the victories of Ossoff and Warnock is not only their firm support of increased government stimulus but also their inspiring, optimistic campaigning style. Failed Trump stooges Purdue and Loeffler, relegated to the discount bin of history textbooks, campaigned on fear and cardboard, culture-war appeals to “The People.” By “The People” they of course meant the citizens of Georgia—minus Fulton County (which was apparently ripe with voter fraud). I wonder why they chose Fulton County, out of all counties in Georgia? One glance at the demographic data would tell you why. They don’t even care about hiding their racism.
+
+![](/images/nina-turner.png)
 
 To win in politics, we have to sell people on hope. No, that does not mean falling in line and embracing the doomed “Hope & Change” of the Democratic consultant class that paved the way for Donald Trump. But because of the rise of progressive mobilization on the internet, the new vision articulated and widely distributed by progressive politicians, and our generation’s clear and daily experience with failed institutions, I have _hope_ that the failed 2008 promise of “Hope & Change” will finally become a reality. Maybe not in 2020, but a ground-swell is coming.
