@@ -11,7 +11,7 @@ title = "The Cornell Progressive"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
-URL = "contact"
+URL = "/"
 name = "Contact"
 url = "https://www.thecornellprogressive.com/contact"
 weight = 1
