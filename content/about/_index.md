@@ -1,6 +1,10 @@
 ---
 title: About
 description: This is meta description
+menu:
+  main:
+    URL: about
+    weight: 2
 
 ---
 The _Cornell Progressive_ is Cornell University’s premier progressive news and opinion publication and blog.

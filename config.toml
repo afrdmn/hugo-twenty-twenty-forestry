@@ -24,16 +24,6 @@ URL = "/"
 name = "Home"
 url = "https://www.thecornellprogressive.com/"
 weight = 1
-[[menu.main]]
-URL = "about"
-name = "About"
-url = "https://www.thecornellprogressive.com/about"
-weight = 2
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-url = "https://www.thecornellprogressive.com/contact"
-weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
