@@ -3,13 +3,12 @@ author = ["Aaron Friedman"]
 categories = ["Opinion"]
 date = 2021-02-01T02:51:53Z
 description = "I have hope that the failed 2008 promise of “Hope & Change” will finally become a reality. Maybe not in 2020, but a ground-swell is coming."
-draft = true
 image = "/images/3_4-cornell-progressive.png"
 tags = ["Alexandria Ocasio-Cortez", "Bernie Sanders"]
-title = "The Founding Vision: A New Era For The Left"
+title = "Preview"
 
 +++
-To put it bluntly, when the predecessor of this publication, _Turn Left,_ was founded in 2000, progressive discourse nationally was nothing more than a joke. Campus journalists and activists are real people who are products of the society around them. No one was willing to take a firm stand without fear of getting ridiculed. Regardless, there was no politician or movement to support. Bernie Sanders was around, but known to no one. What power did this back-bench House member have anyway? What could he do to change the national dialogue? Put out a press release in the _Burlington Free Press_?
+Campus journalists and activists are real people who are products of the society around them. No one was willing to take a firm stand without fear of getting ridiculed. Regardless, there was no politician or movement to support. Bernie Sanders was around, but known to no one. What power did this back-bench House member have anyway? What could he do to change the national dialogue? Put out a press release in the _Burlington Free Press_?
 
 ![](/images/sanders-2000.jpg)
 
