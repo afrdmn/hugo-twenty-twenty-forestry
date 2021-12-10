@@ -33,7 +33,7 @@ images = ["/images/the-cornell-independent.png"]
 title = "The Cornell Independent"
 [params.banner]
 heading = "The Cornell Independent"
-image = "/images/add-a-heading.png"
+image = "/images/the-cornell-independent.png"
 [params.blog]
 heading = "The premier destination for insights"
 [params.call_to_action]
