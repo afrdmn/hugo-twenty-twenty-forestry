@@ -27,12 +27,12 @@ weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-author = "The Cornell Progressive"
-description = "The Cornell Progressive is Cornell University’s premier progressive news and opinion publication and blog."
+author = "The Cornell Independent"
+description = "The Cornell Independent is Cornell University’s premier news and opinion publication and blog."
 images = ["/images/add-a-heading.png"]
-title = "The Cornell Progressive"
+title = "The Cornell Independent"
 [params.banner]
-heading = "The Cornell Progressive"
+heading = "The Cornell Independent"
 image = "/images/add-a-heading.png"
 [params.blog]
 heading = "The premier destination for progressive insights since 2000."
