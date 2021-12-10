@@ -45,9 +45,9 @@ title = "Contact us for more information."
 [params.footer]
 address = "Ithaca, NY 14850"
 content = ""
-copyright = "The Cornell Progressive Copyright &copy; 2021"
+copyright = "The Cornell Independent Copyright &copy; 2021"
 hours = "N/A"
-title = "The Cornell Progressive"
+title = "The Cornell Independent"
 [params.gallery]
 enable = false
 [[params.gallery.gallery_item]]
