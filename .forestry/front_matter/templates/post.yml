@@ -28,4 +28,5 @@ fields:
   label: description
   description: Meta description
 pages:
+- content/blog/on-the-path-of-covid.md
 - content/blog/the founding vision.md
