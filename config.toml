@@ -11,6 +11,11 @@ title = "The Cornell Independent"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
+URL = "https://www.thecornellprogressive.com/contact"
+name = "Contact"
+url = "https://thecornellindependent.com/contact"
+weight = 3
+[[menu.main]]
 URL = "https://www.thecornellprogressive.com/about"
 name = "About"
 url = "https://thecornellindependent.com/about"
