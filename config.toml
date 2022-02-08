@@ -5,7 +5,7 @@ googleAnalytics = ""
 languageCode = "en-us"
 languageName = "En"
 paginate = "6"
-summaryLength = "10" 
+summaryLength = "10"
 theme = "github.com/themefisher/twenty-twenty-hugo"
 title = "The Cornell Independent"
 [markup.goldmark.renderer]
@@ -42,9 +42,6 @@ url = "https://thecornellindependent.com/about"
 weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
-# favicon
-[params.favicon]
-favicon = "images/favicon.png"
 [params]
 author = "The Cornell Independent"
 description = "The Cornell Independent is Cornell University’s premier news and opinion publication and blog."
@@ -62,6 +59,8 @@ button_url = "mailto:editor@thecornellindependent.com"
 content = ""
 enable = true
 title = "Contact us for more information."
+[params.favicon]
+favicon = "images/favicon.ico"
 [params.footer]
 address = "Ithaca, NY 14850"
 content = ""
