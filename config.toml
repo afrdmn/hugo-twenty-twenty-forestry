@@ -5,31 +5,41 @@ googleAnalytics = ""
 languageCode = "en-us"
 languageName = "En"
 paginate = "6"
-summaryLength = "10"
+summaryLength = "10" 
 theme = "github.com/themefisher/twenty-twenty-hugo"
 title = "The Cornell Independent"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
+URL = "https://www.thecornellindependent.com/"
+name = "Home"
+url = "https://thecornellindependent.com/"
+weight = 1
+[[menu.desktop]]
 URL = "https://www.thecornellindependent.com/contact"
 name = "Contact"
 url = "https://thecornellindependent.com/contact"
-weight = 1
+weight = 2
 [[menu.desktop]]
 URL = "https://www.thecornellindependent.com/about"
 name = "About"
 url = "https://thecornellindependent.com/about"
-weight = 2
+weight = 3
+[[menu.main]]
+URL = "https://www.thecornellindependent.com/"
+name = "Home"
+url = "https://thecornellindependent.com/"
+weight = 1
 [[menu.main]]
 URL = "https://www.thecornellindependent.com/contact"
 name = "Contact"
 url = "https://thecornellindependent.com/contact"
-weight = 3
+weight = 2
 [[menu.main]]
 URL = "https://www.thecornellindependent.com/about"
 name = "About"
 url = "https://thecornellindependent.com/about"
-weight = 2
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 # favicon
