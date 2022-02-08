@@ -1,4 +1,4 @@
-baseURL = "/index.html"
+baseURL = ""
 disableLanguages = []
 disqusShortname = ""
 googleAnalytics = ""
