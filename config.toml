@@ -39,7 +39,7 @@ image = "/images/the-cornell-independent.png"
 heading = "Premier common sense insights from a strong, independent perspective"
 [params.call_to_action]
 button_label = "Contact Us"
-button_url = "contact"
+button_url = "mailto:editor@thecornellindependent.com"
 content = ""
 enable = true
 title = "Contact us for more information."
