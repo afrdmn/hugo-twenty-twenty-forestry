@@ -15,6 +15,11 @@ URL = "https://www.thecornellprogressive.com/contact"
 name = "Contact"
 url = "https://thecornellindependent.com/contact"
 weight = 1
+[[menu.main]]
+URL = "https://www.thecornellprogressive.com/contact"
+name = "Contact"
+url = "https://thecornellindependent.com/contact"
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
