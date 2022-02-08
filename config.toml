@@ -35,7 +35,7 @@ title = "The Cornell Independent"
 heading = "The Cornell Independent"
 image = "/images/the-cornell-independent.png"
 [params.blog]
-heading = "The premier destination for insights"
+heading = "A Cornell student's premier destination for common sense insights from a strong, independent perspective"
 [params.call_to_action]
 button_label = "Contact Us"
 button_url = "contact"
@@ -45,7 +45,7 @@ title = "Contact us for more information."
 [params.footer]
 address = "Ithaca, NY 14850"
 content = ""
-copyright = "The Cornell Independent Copyright &copy; 2021"
+copyright = "The Cornell Independent Copyright &copy; 2022"
 hours = "N/A"
 title = "The Cornell Independent"
 [params.gallery]
@@ -55,7 +55,7 @@ image = "images/2020-square-2.png"
 [[params.gallery.gallery_item]]
 image = "images/2020-square-1.png"
 [params.social]
-email = "editor@thecornellprogressive.com"
+email = ""
 facebook = ""
 instagram = ""
 linkedin = ""
