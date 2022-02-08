@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "thecornellindependent.com"
 disableLanguages = []
 disqusShortname = ""
 googleAnalytics = ""
@@ -11,14 +11,14 @@ title = "The Cornell Independent"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
-name = "About"
-url = "https://www.thecornellprogressive.com/about/"
-weight = 2
-[[menu.desktop]]
 URL = "https://www.thecornellprogressive.com/contact"
 name = "Contact"
 url = "https://www.thecornellprogressive.com/contact"
 weight = 1
+[[menu.desktop]]
+name = "About"
+url = "https://www.thecornellprogressive.com/about/"
+weight = 2
 [[menu.main]]
 URL = "/"
 name = "Home"
