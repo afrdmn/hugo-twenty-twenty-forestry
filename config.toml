@@ -41,7 +41,7 @@ heading = "Premier common sense insights from a strong, independent perspective"
 button_label = "Contact Us"
 button_url = "contact"
 content = ""
-enable = false
+enable = true
 title = "Contact us for more information."
 [params.footer]
 address = "Ithaca, NY 14850"
