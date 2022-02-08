@@ -3,8 +3,7 @@ author = []
 categories = []
 date = 2022-02-08T02:06:57Z
 description = ""
-draft = true
-image = "/images/gov-hochul.jfif"
+image = ""
 tags = []
 title = "The New York Gerrymander"
 
