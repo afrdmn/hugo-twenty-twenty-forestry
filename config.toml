@@ -34,7 +34,7 @@ weight = 2
 home = ["HTML", "RSS", "JSON"]
 # favicon
 [params.favicon]
-favicon = "favicon.png"
+favicon = "images/favicon.png"
 [params]
 author = "The Cornell Independent"
 description = "The Cornell Independent is Cornell University’s premier news and opinion publication and blog."
