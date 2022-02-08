@@ -10,6 +10,16 @@ theme = "github.com/themefisher/twenty-twenty-hugo"
 title = "The Cornell Independent"
 [markup.goldmark.renderer]
 unsafe = true
+[[menu.desktop]]
+URL = "https://www.thecornellindependent.com/contact"
+name = "Contact"
+url = "https://thecornellindependent.com/contact"
+weight = 1
+[[menu.desktop]]
+URL = "https://www.thecornellindependent.com/about"
+name = "About"
+url = "https://thecornellindependent.com/about"
+weight = 2
 [[menu.main]]
 URL = "https://www.thecornellindependent.com/contact"
 name = "Contact"
