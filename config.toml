@@ -16,10 +16,10 @@ name = "Contact"
 url = "https://thecornellindependent.com/contact"
 weight = 1
 [[menu.main]]
-URL = "https://www.thecornellprogressive.com/contact"
-name = "Contact"
-url = "https://thecornellindependent.com/contact"
-weight = 3
+URL = "https://www.thecornellprogressive.com/about"
+name = "About"
+url = "https://thecornellindependent.com/about"
+weight = 2
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
