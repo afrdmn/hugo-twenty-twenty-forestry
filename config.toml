@@ -16,8 +16,9 @@ name = "Contact"
 url = "https://www.thecornellindependent.com/contact"
 weight = 1
 [[menu.desktop]]
+URL = " https://www.thecornellindependent.com/about/"
 name = "About"
-url = "https://www.thecornellprogressive.com/about/"
+url = "https://www.thecornellindependent.com/about/"
 weight = 2
 [[menu.main]]
 URL = "/"
