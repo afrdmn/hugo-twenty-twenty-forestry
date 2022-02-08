@@ -22,7 +22,7 @@ weight = 2
 [[menu.main]]
 URL = "/"
 name = "Home"
-url = "https://www.thecornellprogressive.com/"
+url = "https://www.thecornellindependent.com/"
 weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
