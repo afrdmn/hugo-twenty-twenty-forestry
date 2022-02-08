@@ -3,7 +3,6 @@ author = []
 categories = []
 date = 2022-02-08T02:06:57Z
 description = ""
-draft = true
 image = "/images/0003-18403794735.webp"
 tags = []
 title = "The New York Gerrymander"
