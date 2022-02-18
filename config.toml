@@ -52,7 +52,7 @@ url = "https://www.thecornellindependent.com/"
 heading = "The Cornell Independent"
 image = "/images/the-cornell-independent.png"
 [params.blog]
-heading = "Premier common sense insights from a strong, independent perspective"
+heading = "Premier common sense insights from an untethered perspective"
 [params.call_to_action]
 button_label = "Contact Us"
 button_url = "mailto:editor@thecornellindependent.com"
