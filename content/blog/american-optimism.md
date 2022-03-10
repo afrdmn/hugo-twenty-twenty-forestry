@@ -29,7 +29,7 @@ A genuine “[Morning in America](https://www.nytimes.com/2016/05/08/business/th
 
 Individuals themselves cannot control other nations and an international climate of aggression and authoritarianism. Still, not every response to threats from external nations is diplomatic and political.
 
-In fact, strongmen in every continent are praying for America’s downfall, beginning with a pessimistic populace and a spirit of boredom and stagnation.
+In fact, strongmen on every continent are praying for America’s downfall, beginning with a pessimistic populace and a spirit of boredom and stagnation.
 
 And only the American people, not the nation’s diplomats, generals, and politicians can create a positive, innovative spirit. Contrary to some Republican politicians, no amount of regulations is stopping the American people from achieving their dreams. And contrary to some Democratic politicians, America is still a haven for free enterprise, choice, and thought.
 
