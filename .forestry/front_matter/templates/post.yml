@@ -28,6 +28,7 @@ fields:
   label: description
   description: Meta description
 pages:
+- content/blog/american-optimism.md
 - content/blog/on-the-path-of-covid.md
 - content/blog/on-the-path-of-covid.md
 - content/blog/the-new-york-gerrymander.md
