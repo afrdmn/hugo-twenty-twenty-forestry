@@ -35,4 +35,4 @@ And only the American people, not the nation’s diplomats, generals, and politi
 
 Parents, sick of learning loss and kids losing their minds protested in the closing months of 2021 and the opening of 2022 against school mask mandates and pandemic policies. Workers seem to be stuck in limbo over office reopenings. Inflation is a problem.
 
-Instead of fanning the flames on social and cultural confusion, the media, the administration, and Congress should provide a path forward, fixing the legitimate problems and inspiring faith in the nation.
+Instead of fanning the flames on social and cultural confusion, the media, the administration, and Congress should provide a path forward, fixing legitimate problems and inspiring faith in the nation.
