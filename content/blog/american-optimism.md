@@ -8,7 +8,7 @@ tags = []
 title = "American Optimism"
 
 +++
-“2021 was a year of closed doors, downward tugs and steady disappointment,” writes Ross Douthat in his article “The Year of American Disappointment” for the New York Times at the tail-end of January 2022. The article incorporates insights from 2021, as well as from the first month of 2022.
+“2021 was a year of closed doors, downward tugs and steady disappointment,” writes Ross Douthat in his article “[The Year of American Disappointment](https://www.google.com/amp/s/www.nytimes.com/2022/01/26/opinion/biden-covid-american-disappointment.amp.html)” for the New York Times at the tail-end of January 2022. The article incorporates insights from 2021, as well as from the first month of 2022.
 
 It makes sense that conservatives in opposition would project a doom and gloom scenario on the nation. But this pandemic “stagnation” narrative from the Times is troubling for different reasons. Maybe 2021 was a year of political disappointment. But the article does not inherently focus on legislative gridlock.
 
