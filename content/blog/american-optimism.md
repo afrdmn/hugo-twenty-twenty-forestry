@@ -32,6 +32,6 @@ In fact, strongmen on every continent are praying for America’s downfall, begi
 
 And only the American people, not the nation’s diplomats, generals, and politicians can create a positive, innovative spirit. Contrary to some Republican politicians, no amount of regulations is stopping the American people from achieving their dreams. And contrary to a great many politicians from both sides, America is still a haven for free enterprise, choice, and thought.
 
-Parents, sick of academic disruptions protested in the closing months of 2021 and the opening of 2022 against school mask mandates and pandemic policies. Workers are suffering from inflation and seem to be stuck in limbo over office reopenings.
+Parents, sick of academic disruptions protested in the closing months of 2021 and the opening of 2022 against school mask mandates and pandemic policies. Workers are suffering from inflation and seem to be stuck in limbo over office re-openings.
 
 Instead of fanning the flames on social and cultural confusion, the media, the administration, and Congress should provide a path forward, fixing legitimate problems and inspiring faith in the nation.
