@@ -3,7 +3,6 @@ author = ["Aaron Friedman"]
 categories = []
 date = 2022-03-10T20:24:37Z
 description = ""
-draft = true
 image = "/images/article-cover.png"
 tags = []
 title = "American Optimism"
