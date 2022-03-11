@@ -24,7 +24,7 @@ Of course, college campuses, and students, are biased. Colleges are certainly mo
 
 Polling data does not bode well for Americans’ continued optimism in the nation’s path. However, no matter the general turbulence in the nation’s faith, America is open, and those that want to engage in progress, socialization, and travel are reaping the rewards. There are legitimate reasons to lose hope or optimism, but just like always, people themselves have the final say–not a pandemic that is mostly over.
 
-A genuine “Morning in America” moment is far from a reality. Nonetheless, the vaccines have worked. Just a month after the delta variant scare, the variant is behind us, and hospitalizations and deaths are at lows.
+A genuine “[Morning in America](https://www.google.com/amp/s/www.nytimes.com/2016/05/08/business/the-ad-that-helped-reagan-sell-good-times-to-an-uncertain-nation.amp.html)” moment is far from a reality. Nonetheless, the vaccines have worked. Just a month after the delta variant scare, the variant is behind us, and hospitalizations and deaths are at lows.
 
 As the pandemic subsides, an international climate of aggression and authoritarianism takes control of public consciousness. Though individuals themselves cannot control other nations, the response of the American public is arguably more significant than diplomatic and political threats.
 
