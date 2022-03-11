@@ -20,7 +20,7 @@ When will the pandemic cease to function as an excuse for social disorder? To be
 
 Travel and private and public gatherings have been going on for close to a year now, even in the most restricted of states. College campuses have been bustling, to varying degrees, since the Fall of 2021, and, less than a month after the Times article’s publication, public schools are done with mask mandates, insinuating a complete return to normal.
 
-Of course, college campuses, and students, are biased. Colleges are certainly more active than the office scene of 35-year old New Yorkers–not a surprise. And things are not perfect–but both 2021 and 2022 are substantially improved compared to 2020.
+Of course, college campuses, and students, present a bias. Colleges are certainly more active than the office scene of 35-year old New Yorkers–not a surprise. And things are not perfect–but both 2021 and 2022 are substantially improved compared to 2020.
 
 Polling data does not bode well for Americans’ continued optimism in the nation’s path. However, no matter the general turbulence in the nation’s faith, America is open, and those that want to engage in progress, socialization, and travel are reaping the rewards. There are legitimate reasons to lose hope or optimism, but just like always, people themselves have the final say–not a pandemic that is mostly over.
 
