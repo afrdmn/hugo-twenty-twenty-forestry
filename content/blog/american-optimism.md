@@ -18,7 +18,7 @@ Maybe the Times editors and writers are oversaturated with negative news coverag
 
 When will the pandemic cease to function as an excuse for social disorder? To be sure, the pandemic did cause disruptions, social and economic. However, these changes varied from state to state. And in all states, various phases of reopenings have rendered lockdowns long gone, and the restrictions had varying degrees of adherence regardless. Therefore, a denunciation of social disfunction writ large becomes compromised.
 
-Travel and private and public gatherings have been going on for close to a year now, even in the most restricted of states. College campuses have been bustling, to varying degrees, since the Fall of 2021, and, less than a month after the Times article’s publication, public schools are done with mask mandates, insinuating a complete return to normal
+Travel and private and public gatherings have been going on for close to a year now, even in the most restricted of states. College campuses have been bustling, to varying degrees, since the Fall of 2021, and, less than a month after the Times article’s publication, public schools are done with mask mandates, insinuating a complete return to normal.
 
 Of course, college campuses, and students, are biased. Colleges are certainly more active than the office scene of 35-year old New Yorkers–not a surprise. And things are not perfect–but both 2021 and 2022 are substantially improved compared to 2020.
 
