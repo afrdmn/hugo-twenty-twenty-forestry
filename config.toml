@@ -52,7 +52,7 @@ url = "https://www.thecornellindependent.com/"
 heading = "The Cornell Independent"
 image = "/images/the-cornell-independent.png"
 [params.blog]
-heading = "Premier—independent—outlooks on today’s most pressing political questions"
+heading = "Premier and independent outlooks on today’s most pressing political questions"
 [params.call_to_action]
 button_label = "Contact Us"
 button_url = "mailto:editor@thecornellindependent.com"
